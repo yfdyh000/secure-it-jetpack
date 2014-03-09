@@ -1,6 +1,7 @@
 {
-  "id": "domain-security@erikvold.com",
-  "fullName": "Domain Security",
+  "id": "secure-it@erikvold.com",
+  "name": "secure-it",
+  "fullName": "Secure It",
   "author": "Erik Vold",
   "license": "MPL 2.0",
   "version": "0.1",
